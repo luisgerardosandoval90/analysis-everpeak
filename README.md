@@ -11,7 +11,7 @@ notebooks/analisis_datos.ipynb
 
 ▶ Cómo abrir el notebook en Google Colab
 
-Haz clic en el siguiente botón:
+Haz clic en el siguiente botón: https://colab.research.google.com/drive/1sGgIFENuwsFx9JQp43qmapyqIKT1QNVa?usp=sharing
 
 O bien:
 
